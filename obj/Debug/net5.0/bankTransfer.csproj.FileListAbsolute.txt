@@ -1,0 +1,16 @@
+C:\Users\loren\Documents\bankTransfer\obj\Debug\net5.0\bankTransfer.csprojAssemblyReference.cache
+C:\Users\loren\Documents\bankTransfer\obj\Debug\net5.0\bankTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\Documents\bankTransfer\obj\Debug\net5.0\bankTransfer.AssemblyInfoInputs.cache
+C:\Users\loren\Documents\bankTransfer\obj\Debug\net5.0\bankTransfer.AssemblyInfo.cs
+C:\Users\loren\Documents\bankTransfer\obj\Debug\net5.0\bankTransfer.csproj.CoreCompileInputs.cache
+C:\Users\loren\Documents\bankTransfer\bin\Debug\net5.0\bankTransfer.exe
+C:\Users\loren\Documents\bankTransfer\bin\Debug\net5.0\bankTransfer.deps.json
+C:\Users\loren\Documents\bankTransfer\bin\Debug\net5.0\bankTransfer.runtimeconfig.json
+C:\Users\loren\Documents\bankTransfer\bin\Debug\net5.0\bankTransfer.runtimeconfig.dev.json
+C:\Users\loren\Documents\bankTransfer\bin\Debug\net5.0\bankTransfer.dll
+C:\Users\loren\Documents\bankTransfer\bin\Debug\net5.0\ref\bankTransfer.dll
+C:\Users\loren\Documents\bankTransfer\bin\Debug\net5.0\bankTransfer.pdb
+C:\Users\loren\Documents\bankTransfer\obj\Debug\net5.0\bankTransfer.dll
+C:\Users\loren\Documents\bankTransfer\obj\Debug\net5.0\ref\bankTransfer.dll
+C:\Users\loren\Documents\bankTransfer\obj\Debug\net5.0\bankTransfer.pdb
+C:\Users\loren\Documents\bankTransfer\obj\Debug\net5.0\bankTransfer.genruntimeconfig.cache
